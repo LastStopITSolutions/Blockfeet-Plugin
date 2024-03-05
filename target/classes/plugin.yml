@@ -1,0 +1,6 @@
+name: BlockFeet
+version: 1.0
+main: com.scrypto.blockfeet.BlockFeetPlugin
+author: Scrypto
+description: A Minecraft plugin that makes mined blocks fall to the player's feet.
+api-version: '1.20'
